@@ -1,0 +1,7 @@
+den xrhsimopoih8hkan parametroi ekteleshs
+
+xrhsimopoih8hke h entolh:
+#pragma comment(linker, "/SUBSYSTEM:windows /ENTRY:mainCRTStartup")
+gia na mhn emfanizetai h konsola
+
+apenergopoih8hkan ta warnings 4996 gia thn sprintf
